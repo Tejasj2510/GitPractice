@@ -1,0 +1,21 @@
+﻿@model IEnumerable<EmployeeDetails_AJAX_.Models.Employee>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Surname</td>
+                <td>@item.Age</td>
+            </tr>
+        }
+    </tbody>
+</table>

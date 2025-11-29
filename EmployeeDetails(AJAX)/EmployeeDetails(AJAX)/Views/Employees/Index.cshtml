@@ -1,0 +1,133 @@
+﻿<table class="table">
+    <thead>
+        <h2></>List Of All Employees</h2><br />
+    </thead>
+    <tbody>
+
+        <div class="row">
+            <div class="col-md-6">
+                <form class="d-flex" asp-action="Index" asp-controller="Employees" method="get">
+                    <input name="searchString"
+                           class="form-control me-1"
+                           type="search"
+                           placeholder="Search"
+                           aria-label="Search" />
+
+                    <button class="btn btn-dark" type="submit">Search By Name</button>
+                </form>
+            </div>
+
+            <div class="col-md-6 text-end">
+                <a asp-action="Index" class="text-dark">Back to full list</a>
+            </div>
+        </div>
+
+
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <input id="ajaxSearchBox" class="form-control" placeholder="Live Search (AJAX)" />
+            </div>
+            <div class="col-md-2">
+                <button id="ajaxClearBtn" class="btn btn-secondary">Clear</button>
+            </div>
+        </div>
+
+        <hr />
+        <div id="employeeContainer">
+            @await Html.PartialAsync("_EmployeeList", (IEnumerable<EmployeeDetails_AJAX_.Models.Employee>)Model)
+
+        </div>
+
+
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Surname</td>
+                <td>@item.Email</td>
+                <td>@item.Age</td>
+                <td>@item.Hiredate</td>
+                <td>
+                    <a asp-action="Create" asp-route-id="@item.Id">Create</a> |
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <button class="btnDetails" data-id="@item.Id">Details</button> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div id="additionContainer" class="mt-4"></div>
+
+<button id="btnShowAddition" class="btn btn-info">Show Addition</button>
+
+
+
+<div id="detailsModal" style="display:none;">
+    <div id="modalBody"></div>
+</div>
+@section Scripts {
+    <script>
+                $(document).ready(function () {
+
+                    $(".btnDetails").click(function () {
+                        var id = $(this).data("id");
+
+                        $.ajax({
+                            url: '@Url.Action("DetailsPartial", "Employees")',
+                            data: { id: id },
+                            success: function (html) {
+                                $("#modalBody").html(html);
+                                $("#detailsModal").show();
+                            },
+                            error: function () {
+                                alert("Failed to load details.");
+                            }
+                        });
+                    });
+
+                });
+
+        $(document).ready(function () {
+
+                  $("#btnShowAddition").click(function () {
+            $("#additionContainer").load("/Employees/Addition");
+        });
+
+            $(document).on("click", "#btnAdd", function () {
+                var a = $("#num1").val();
+                var b = $("#num2").val();
+
+                $.post("/Employees/AdditionCalculate",
+                    { a: a, b: b },
+                    function (result) {
+                        $("#result").text(result);
+                    });
+            });
+        });
+
+            $(document).ready(function () {
+
+            // Live AJAX search
+            $("#ajaxSearchBox").on("keyup", function () {
+                var text = $(this).val();
+
+                $.get("/Employees/Search", { term: text }, function (data) {
+                    $("#employeeContainer").html(data);
+                });
+            });
+
+            // Clear AJAX search
+            $("#ajaxClearBtn").click(function () {
+                $("#ajaxSearchBox").val("");
+
+                $.get("/Employees/Search", { term: "" }, function (data) {
+                    $("#employeeContainer").html(data);
+                });
+            });
+        });
+    </script>
+}

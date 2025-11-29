@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\views\\employees\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\views\\employees\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\views\\employees\\additionpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\views\\employees\\additionpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\models\\calcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\models\\calcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\views\\employees\\_detailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\views\\employees\\_detailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\employeedetails(ajax).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\employeedetails(ajax).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|d:\\dotnetprojects\\employeedetails(ajax)\\employeedetails(ajax)\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96EF776-342F-B3BF-7AEB-B1D2A33E1E61}|EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj|solutionrelative:employeedetails(ajax)\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_EmployeeList.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\_EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Views\\Employees\\_EmployeeList.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\_EmployeeList.cshtml",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Views\\Employees\\_EmployeeList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T04:21:58.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdditionPartial.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\AdditionPartial.cshtml",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Views\\Employees\\AdditionPartial.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\AdditionPartial.cshtml",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Views\\Employees\\AdditionPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T16:23:11.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:58:12.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAqwJgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:38:03.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T08:07:49.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:46:51.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Program.cs",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Program.cs",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:30:20.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T14:12:30.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:07:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "calcModel.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Models\\calcModel.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Models\\calcModel.cs",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Models\\calcModel.cs",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Models\\calcModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:18:17.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T08:22:15.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_DetailsPartial.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\_DetailsPartial.cshtml",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Views\\Employees\\_DetailsPartial.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\_DetailsPartial.cshtml",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Views\\Employees\\_DetailsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T14:06:01.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\appsettings.json",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\appsettings.json",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T07:33:38.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T13:52:43.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeDetails(AJAX).csproj",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\EmployeeDetails(AJAX).csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T08:10:03.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:33:57.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T07:33:51.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Models\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails(AJAX)\\Models\\CompanyDbContext.cs",
+              "ToolTip": "D:\\DotNetProjects\\EmployeeDetails(AJAX)\\EmployeeDetails(AJAX)\\Models\\CompanyDbContext.cs",
+              "RelativeToolTip": "EmployeeDetails(AJAX)\\Models\\CompanyDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:33:25.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
