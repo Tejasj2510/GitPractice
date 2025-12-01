@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMS(api)", "PMS(api).csproj", "{180F358E-2F56-0AF7-6B32-CC2D3B3EAE8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180F358E-2F56-0AF7-6B32-CC2D3B3EAE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180F358E-2F56-0AF7-6B32-CC2D3B3EAE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180F358E-2F56-0AF7-6B32-CC2D3B3EAE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180F358E-2F56-0AF7-6B32-CC2D3B3EAE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9360C63B-380A-4318-9A23-7FE7A78E720D}
+	EndGlobalSection
+EndGlobal
